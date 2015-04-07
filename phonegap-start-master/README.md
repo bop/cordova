@@ -1,6 +1,6 @@
 # Hello World PhoneGap Application
 
-> A Hello World application built with PhoneGap
+> A UFO finder application built with PhoneGap
 
 ## Usage
 
